@@ -19,6 +19,8 @@ For help, discussion about best practices, or any other conversation that would 
 
 [Discuss tiptap on GitHub](https://github.com/ueberdosis/tiptap/discussions)
 
+This is a new IDE
+
 ## Sponsors 💖
 <table>
   <tr>
