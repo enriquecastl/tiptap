@@ -1,4 +1,5 @@
 # Tiptap
+
 A headless, framework-agnostic and extendable rich text editor, based on [ProseMirror](https://github.com/ProseMirror/prosemirror).
 
 [![Build Status](https://github.com/ueberdosis/tiptap/workflows/build/badge.svg)](https://github.com/ueberdosis/tiptap/actions)
@@ -53,7 +54,7 @@ This is a new IDE
         <img src="https://unavatar.io/github/storyblok" width="100"><br>
         <strong>Storyblok</strong>
       </a>
-    </td>    
+    </td>
   </tr>
 </table>
 
