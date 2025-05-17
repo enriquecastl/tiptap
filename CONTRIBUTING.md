@@ -4,6 +4,7 @@ Contributions are **welcome** and will be fully **credited**.
 
 Please read and understand the [contribution guide](https://www.tiptap.dev/overview/contributing/) before creating an issue or pull request.
 
+
 ## Etiquette
 
 This project is open source, and as such, the maintainers give their free time to build and maintain the source code
